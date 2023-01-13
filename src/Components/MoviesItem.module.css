@@ -1,0 +1,14 @@
+.movieCard{
+    list-style: none;
+    font-size: 1rem;
+    text-align: center;  
+}
+
+.movieImage{
+    border-radius: 10px;
+    width: 100%;
+}
+.movieImage:hover{
+    box-shadow: 0 0px 20px red;
+    filter: brightness(70%);
+}

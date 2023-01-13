@@ -1,0 +1,14 @@
+body{
+  background-color: black;
+  color: white;
+}
+.title{
+  text-align: center;
+  text-shadow: 0 0 30px rgb(0, 0, 0), 0 0 40px rgb(230, 236, 56), 0 0 50px red;
+  font-size: 100px;
+  margin: 20px 0px;
+}
+a{
+  text-decoration: none;
+  color: white;
+}

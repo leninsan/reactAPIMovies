@@ -1,0 +1,19 @@
+.detailsContainer{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.img{
+    border-radius: 10px;
+}
+.col{
+    max-width: 400px;
+    margin:15px;
+}
+.description{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+}

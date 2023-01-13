@@ -1,0 +1,10 @@
+.moviesGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,230px);
+    gap: 40px;
+    margin: 15px 20px;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    
+}
